@@ -25,3 +25,7 @@ ColourPredictor.py
 Constants.py
 
     File of constant variables to be accessible by both: Main.py & ColourPredictor.py
+
+WeightsAndBiases_3_4_2_.npy
+
+    Quick pre-trained set of Weights & Biases for network shape[ 3, 4, 2 ]
